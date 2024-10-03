@@ -16,12 +16,8 @@ In this project, we developed AI School Architect to orchestrate AI agents perfo
   LANGCHAIN_PROJECT=24a6_6_3
   TAVILY_API_KEY=your-tavily-key
   ```
-## Docker (recommended)
-1. Build the Docker image:
-   ```
-   docker compose build
-   ```
-2. Run the Docker container:
+## Docker
+1. Run the agent supervisor with Docker:
    ```
    docker compose up
    ```
