@@ -13,7 +13,7 @@ In this project, we developed AI School Architect to orchestrate AI agents perfo
   OPENAI_API_KEY=your-openai-key
   LANGCHAIN_API_KEY=your-langchain-key
   LANGCHAIN_TRACING_V2=true
-  LANGCHAIN_PROJECT=24a6_6_3
+  LANGCHAIN_PROJECT=week_6_3
   TAVILY_API_KEY=your-tavily-key
   ```
 ## Docker
